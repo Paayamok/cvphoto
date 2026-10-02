@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 正式 3D 角色尚未通过视觉与动作验收；禁止恢复远程模型或旧 POC 入口。 -->
+</manifest>
